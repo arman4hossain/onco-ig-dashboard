@@ -1,0 +1,110 @@
+body {
+    font-family: 'Roboto', sans-serif; 
+}
+
+.top a {
+    text-decoration: none;
+    color: black;
+}
+.top {
+    font-size: 170%;
+    margin-top: 15px;
+    text-align: center;
+}
+
+.nav {
+    width: 100%;
+    padding: 0;
+}
+
+nav img {
+    width: 8%;
+    margin-top: 0px;
+}
+
+#oncologo {
+    width: 8%;
+    float: left;
+}
+#mslogo {
+    float: right;
+    width: 10%;
+}
+
+.main {
+    width: 100%;
+    text-align: center;
+    margin-top: 10%;
+    font-size: 180%;
+}
+
+.main a {
+    text-decoration: none;
+    color: black;
+}
+
+.IG {
+    margin-bottom: 3%;
+}
+
+.IG a {
+    background-color: #FFD754;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    border-radius: 9px;
+    box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.IG a:hover {
+    font-size: 110%;
+    box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.25);
+    transition: .1s;
+}
+
+.retouch {
+    margin-top: 5%;
+}
+
+.retouch a {
+    color: #FFD754;
+    background-color: rgb(15, 15, 15);
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 9px;
+}
+
+.retouch a:hover {
+    font-size: 110%;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    transition: .1s;
+}
+.drive {
+    margin-top: 10%;
+    text-align: center;
+}
+
+.drive a{
+    text-decoration: none;
+    font-size: 190%;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: rgb(15, 15, 15);
+    margin-left: 16%;
+    margin-right: 14%;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 9px;
+    box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.drive a:hover {
+    font-size: 180%;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+    transition: .1s;
+}

@@ -1,0 +1,101 @@
+.retouchsec{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.refirst a {
+    text-decoration: none;
+    font-size: 180%;
+    font-weight: bold;
+    color: #000000;
+    background-color: #FFD754;
+    margin-left: 14%;
+    margin-right: 14%;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 9px;
+    box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.refirst a:hover {
+    font-size: 200%;
+    transition: 0.1s;
+}
+
+.resecond {
+    margin-top: 7%;
+}
+
+.resecond a{
+    text-decoration: none;
+    font-size: 180%;
+    font-weight: bold;
+    color: #000000;
+    background-color: #FFD754;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 9px;
+    box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.resecond a:hover {
+    font-size: 200%;
+    transition: 0.1s;
+}
+
+.rethird {
+    margin-top: 7%;
+}
+
+.rethird a{
+    text-decoration: none;
+    font-size: 170%;
+    font-weight: bold;
+    color: #000000;
+    background-color: #FFD754;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 9px;
+    box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.rethird a:hover {
+    font-size: 200%;
+    transition: 0.1s;
+}
+
+.infosheet{
+    text-align: center;
+    margin-top: 7%;
+}
+
+.infosheet a{
+    text-decoration: none;
+    font-size: 150%;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: rgb(15, 15, 15);
+    margin-left: 16%;
+    margin-right: 14%;
+    padding-right: 3%;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    border-radius: 9px;
+    box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.infosheet a:hover {
+    font-size: 130%;
+    transition: 0.1s;
+}
