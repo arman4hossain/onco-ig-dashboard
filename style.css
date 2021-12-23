@@ -108,3 +108,69 @@ nav img {
     box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
     transition: .1s;
 }
+.mobdrive {
+    display: none;
+}
+@media only screen and (max-width: 500px) {
+    
+    body {
+      background-color: lightblue;
+    }
+
+    .top h1 {
+        font-size: 100%;
+    }
+
+    .main a {
+        font-size: 70%;
+    }
+
+    .drive {
+        display: none;
+    }
+    .mobdrive {
+        text-align: center;
+        margin-top: 30%;
+        display: block;
+    }
+
+    .mobdrvone {
+        margin-bottom: 5%;
+    }
+
+    .mobdrvone a {
+        text-decoration: none;
+        font-size: 150%;
+        font-weight: bold;
+        color: #ffffff;
+        background-color: rgb(15, 15, 15);
+        margin-left: 16%;
+        margin-right: 14%;
+        padding-right: 3%;
+        padding-left: 3%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        border-radius: 5px;
+        box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .mobdrvtwo {
+        margin-top: 10%;
+    }
+    
+    .mobdrvtwo a {
+        text-decoration: none;
+        font-size: 150%;
+        font-weight: bold;
+        color: #ffffff;
+        background-color: rgb(15, 15, 15);
+        margin-left: 16%;
+        margin-right: 14%;
+        padding-right: 3%;
+        padding-left: 3%;
+        padding-top: 1%;
+        padding-bottom: 1%;
+        border-radius: 5px;
+        box-shadow: 1px 4px 4px rgba(0, 0, 0, 0.25);
+    }
+  }
